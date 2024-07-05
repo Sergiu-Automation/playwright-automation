@@ -1,0 +1,20 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "testInUiMode": "playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "@playwright/test": "^1.45.1",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0",
+    "prettier": "3.3.2"
+  }
+}
